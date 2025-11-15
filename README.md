@@ -5,27 +5,6 @@ Portable Phototherapy Kit
 This repository contains the complete hardware, firmware, CAD, PCB, and mobile application files for the Portable Neonatal Phototherapy Kit developed at IIT Mandi.
 The project focuses on creating a compact, low-cost, and effective device for neonatal jaundice treatment in remote and resource-limited settings.
 
-📁 Repository Structure
-portable-phototherapy-kit/
-│
-├── CAD/
-│   └── final_cad.zip              → SolidWorks part & assembly files
-│
-├── PCB/
-│   └── pcb_files.zip              → Schematic & layout
-│
-├── Firmware/
-│   ├── code.ino                   → Main ESP32/Arduino firmware
-│   └── src/                       → Additional C++ source files (if any)
-│
-├── Mobile-App/
-│   ├── android/                   → Flutter Android files
-│   ├── ios/                       → iOS files
-│   ├── lib/                       → Dart source code
-│   └── pubspec.yaml               → Flutter dependencies
-│
-└── BOM/
-    └── BOM.xlsx                   → Bill of Materials
 
 🛠️ Project Components
 1️⃣ CAD Design (SolidWorks)
